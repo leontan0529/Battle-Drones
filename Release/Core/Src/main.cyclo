@@ -1,0 +1,16 @@
+../Core/Src/main.c:102:7:read_gyro	1
+../Core/Src/main.c:115:7:read_magneto	1
+../Core/Src/main.c:130:7:read_pressure	1
+../Core/Src/main.c:140:7:calc_height	1
+../Core/Src/main.c:150:7:read_humidity	1
+../Core/Src/main.c:161:7:read_temp	1
+../Core/Src/main.c:172:7:read_accel	1
+../Core/Src/main.c:187:6:trm_event	41
+../Core/Src/main.c:328:6:led_event	7
+../Core/Src/main.c:354:6:pb_controller	14
+../Core/Src/main.c:396:6:last_of_ee2028	4
+../Core/Src/main.c:437:6:lasergun_event	6
+../Core/Src/main.c:467:6:HAL_GPIO_EXTI_Callback	7
+../Core/Src/main.c:533:19:read_from_terminal	5
+../Core/Src/main.c:563:5:main	6
+../Core/Src/main.c:669:6:SPI3_IRQHandler	1
